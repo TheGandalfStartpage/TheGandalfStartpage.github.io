@@ -196,7 +196,7 @@ const cardListIcon2 = ref("icons/FeatherIcon/film.svg");
 /* Greeting */
 
 let greetings = ref("");
-const name = "Nigel Liao";
+const name = import.meta.env.VITE_NAME;
 const gree1 = "Go to Sleep!  ";
 const gree2 = "Good morning!  ";
 const gree3 = "Good afternoon,  ";
