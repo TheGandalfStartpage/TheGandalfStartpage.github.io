@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "AniGamer",
+    "url": "https://ani.gamer.com.tw/"
+  },
+  {
+    "id": 2,
+    "name": "Anime1",
+    "url": "https://anime1.me/"
+  },
+  {
+    "id": 3,
+    "name": "Myself",
+    "url": "https://myself-bbs.com/"
+  },
+  {
+    "id": 4,
+    "name": "Netflix",
+    "url": "https://www.netflix.com/"
+  },
+  {
+    "id": 5,
+    "name": "Disney+",
+    "url": "https://www.disneyplus.com/"
+  }
+]
