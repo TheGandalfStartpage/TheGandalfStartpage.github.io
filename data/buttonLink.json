@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Youtube",
+    "url": "https://www.youtube.com/",
+    "icon": "icons/FeatherIcon/youtube.svg"
+  },
+  {
+    "id": 2,
+    "name": "Github",
+    "url": "https://www.github.com",
+    "icon": "icons/FeatherIcon/github.svg"
+  },
+  {
+    "id": 3,
+    "name": "Calendar",
+    "url": "https://calendar.google.com/calendar/r",
+    "icon": "icons/FeatherIcon/calendar.svg"
+  },
+  {
+    "id": 4,
+    "name": "Mail",
+    "url": "https://mail.google.com/mail/u/0/#inbox/",
+    "icon": "icons/FeatherIcon/mail.svg"
+  },
+  {
+    "id": 5,
+    "name": "Notion",
+    "url": "https://www.notion.so/",
+    "icon": "icons/FeatherIcon/book.svg"
+  },
+  {
+    "id": 6,
+    "name": "Leetcode",
+    "url": "https://www.leetcode.com/",
+    "icon": "icons/FeatherIcon/code.svg"
+  }
+]
